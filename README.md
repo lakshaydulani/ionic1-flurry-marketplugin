@@ -1,0 +1,1 @@
+# ionic1-flurry-plugin
