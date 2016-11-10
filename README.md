@@ -1,7 +1,9 @@
 # ionic1-flurry-marketplugin
 
 
-Use the cordova plugin https://github.com/blakgeek/cordova-plugin-flurryanalytics to integrate with Flurry.
+Firstly, install the cordova plugin https://github.com/blakgeek/cordova-plugin-flurryanalytics to integrate with Flurry.
+
+Then copy the code from the following files onto your app.
 
 #### Code files - 
 
